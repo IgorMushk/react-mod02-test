@@ -27,7 +27,7 @@ export default class SignUpFormCheckbox extends Component {
     console.log(
       `Login: ${login}, Email: ${email}, Password: ${password}, Agreed: ${agreed}`
     );
-    {/*  */}
+    /**    **/
     this.props.onSubmit({ ...this.state });
     this.reset();
   };
