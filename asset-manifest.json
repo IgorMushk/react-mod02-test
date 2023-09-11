@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-mod02-test/static/css/main.7acaea2f.css",
-    "main.js": "/react-mod02-test/static/js/main.2e69ca47.js",
+    "main.js": "/react-mod02-test/static/js/main.d9d641ae.js",
     "index.html": "/react-mod02-test/index.html",
     "main.7acaea2f.css.map": "/react-mod02-test/static/css/main.7acaea2f.css.map",
-    "main.2e69ca47.js.map": "/react-mod02-test/static/js/main.2e69ca47.js.map"
+    "main.d9d641ae.js.map": "/react-mod02-test/static/js/main.d9d641ae.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.2e69ca47.js"
+    "static/js/main.d9d641ae.js"
   ]
 }
