@@ -28,7 +28,7 @@ export class App extends Component {
 
   handleChangeInputValue = evt => {
     this.setState({ inputValue: evt.target.value });
-    console.log(evt.target.value);
+    //console.log(evt.target.value);
   };
 
   render() {
